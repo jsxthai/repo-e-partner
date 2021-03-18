@@ -1,0 +1,19 @@
+.Search__form {
+  display: flex;
+  margin: 20px 0 10px 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.Search__input {
+  width: 300px;
+  max-width: 100%;
+}
+
+.Search__btn {
+  height: 39px;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

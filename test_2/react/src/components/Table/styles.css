@@ -1,0 +1,19 @@
+.sort-btn {
+  cursor: pointer;
+}
+
+.TableHeader__btn {
+  outline: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.TableHeader__icon-btn {
+  cursor: pointer;
+  outline: none;
+  font-weight: bold;
+
+  position: relative;
+  top: 2px;
+  left: 4px;
+}
